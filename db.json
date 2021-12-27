@@ -26,8 +26,6 @@
   {"id":24,"car":"Toyota","car_model":"Tacoma Xtra","car_color":"Puce","car_model_year":1996,"car_vin":"5TDDCRFH8FS931829","price":"$3532.17","availability":false},
   {"id":25,"car":"Volkswagen","car_model":"Eurovan","car_color":"Pink","car_model_year":2000,"car_vin":"WAUUL78E45A616915","price":"$1645.81","availability":true},
   {"id":26,"car":"Ford","car_model":"Econoline E150","car_color":"Puce","car_model_year":2002,"car_vin":"5N1AN0NU9BC466461","price":"$3464.94","availability":true},
-  {"id":27,"car":"GMC","car_model":"Sierra Denali","car_color":"Green","car_model_year":2006,"car_vin":"JHMZF1D63ES995796","price":"$1506.90","availability":false},
-  {"id":28,"car":"Lotus","car_model":"Esprit","car_color":"Purple","car_model_year":1991,"car_vin":"1G6DK8EY0B0373831","price":"$1061.74","availability":false},
-  {"id":29,"car":"Mitsubishi","car_model":"Expo","car_color":"Maroon","car_model_year":1995,"car_vin":"WBAKA4C56CC120857","price":"$1828.44","availability":false}
+  {"id":27,"car":"GMC","car_model":"Sierra Denali","car_color":"Green","car_model_year":2006,"car_vin":"JHMZF1D63ES995796","price":"$1506.90","availability":false}
   ]
 }
