@@ -1,0 +1,8 @@
+
+ { "cars": [
+    { "id": 1, "name": "Ambition", "model": "typicode", "version": "","color":"red","price": "$72" },
+    { "id": 2, "name": "Ambition1", "model": "typicode", "version": "","color":"red","price": "$72" },
+    { "id": 3, "name": "Ambition2", "model": "typicode", "version": "","color":"red","price": "$72" },
+    { "id": 4, "name": "Ambition3", "model": "typicode", "version": "","color":"red","price": "$72" }
+  ]
+}
