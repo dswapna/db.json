@@ -28,10 +28,6 @@
   {"id":26,"car":"Ford","car_model":"Econoline E150","car_color":"Puce","car_model_year":2002,"car_vin":"5N1AN0NU9BC466461","price":"$3464.94","availability":true},
   {"id":27,"car":"GMC","car_model":"Sierra Denali","car_color":"Green","car_model_year":2006,"car_vin":"JHMZF1D63ES995796","price":"$1506.90","availability":false},
   {"id":28,"car":"Lotus","car_model":"Esprit","car_color":"Purple","car_model_year":1991,"car_vin":"1G6DK8EY0B0373831","price":"$1061.74","availability":false},
-  {"id":29,"car":"Mitsubishi","car_model":"Expo","car_color":"Maroon","car_model_year":1995,"car_vin":"WBAKA4C56CC120857","price":"$1828.44","availability":false},
-  {"id":30,"car":"Land Rover","car_model":"Discovery Series II","car_color":"Orange","car_model_year":2002,"car_vin":"1D7RE3BK4AS603019","price":"$2911.93","availability":false},z
-  {"id":31,"car":"Geo","car_model":"Tracker","car_color":"Khaki","car_model_year":1997,"car_vin":"1D7CE3BK0AS555394","price":"$3894.12","availability":true},
-{"id":32,"car":"Mercury","car_model":"Monterey","car_color":"Violet","car_model_year":2004,"car_vin":"KMHD35LH2FU144301","price":"$2799.57","availability":true},
-{"id":33,"car":"BMW","car_model":"3 Series","car_color":"Violet","car_model_year":1992,"car_vin":"1G6KF57901U666328","price":"$1629.85","availability":false}
+  {"id":29,"car":"Mitsubishi","car_model":"Expo","car_color":"Maroon","car_model_year":1995,"car_vin":"WBAKA4C56CC120857","price":"$1828.44","availability":false}
   ]
 }
